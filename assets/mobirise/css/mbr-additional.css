@@ -786,18 +786,19 @@ a {
 .cid-vdOzEJDboy {
   padding-top: 4rem;
   padding-bottom: 4rem;
-  background-color: #edefeb;
+  background-image: url("../../../assets/images/set-healing-herbs-photo.jpg");
 }
 .cid-vdOzEJDboy .content-head {
   max-width: 800px;
 }
 .cid-vdOzEJDboy .mbr-section-title {
-  color: #232323;
+  color: #ffffff;
   text-align: center;
 }
 .cid-vdOzEJDboy .mbr-text,
 .cid-vdOzEJDboy .mbr-section-btn {
   text-align: center;
+  color: #ffffff;
 }
 .cid-vdOAz5SnxJ {
   padding-top: 4rem;
@@ -853,7 +854,7 @@ a {
 .cid-vdOB4Q96Vu {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #ffffff;
+  background-color: #a9aaa7;
 }
 .cid-vdOB4Q96Vu .mbr-fallback-image.disabled {
   display: none;
@@ -885,64 +886,41 @@ a {
 .cid-vdOB4Q96Vu .img-wrapper img {
   width: 6rem;
 }
-.cid-vdOCiXuoJC {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #edefeb;
+.cid-vf8Qt7x8vW {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #757b62;
 }
-.cid-vdOCiXuoJC .mbr-fallback-image.disabled {
-  display: none;
+.cid-vf8Qt7x8vW .mbr-text {
+  color: #000000;
 }
-.cid-vdOCiXuoJC .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
+.cid-vf8Qt7x8vW .mbr-section-subtitle {
+  color: #000000;
 }
-.cid-vdOCiXuoJC .mbr-description {
+.cid-vf8Qt7x8vW .mbr-section-title {
+  color: #000000;
+  text-align: center;
+}
+.cid-vf8Qt7x8vW .mbr-text,
+.cid-vf8Qt7x8vW .item .mbr-section-btn {
   text-align: left;
 }
-.cid-vdOCiXuoJC .item-wrapper {
+.cid-vf8Qt7x8vW .item-wrapper {
   background: #ffffff;
   margin-bottom: 2rem;
   padding: 2.25rem;
 }
-@media (max-width: 767px) {
-  .cid-vdOCiXuoJC .item-wrapper {
-    padding: 2rem 1.5rem;
-    margin-bottom: 1rem;
-  }
-}
 @media (min-width: 992px) and (max-width: 1200px) {
-  .cid-vdOCiXuoJC .item-wrapper {
+  .cid-vf8Qt7x8vW .item-wrapper {
     padding: 2rem 1.5rem;
     margin-bottom: 2rem;
   }
 }
-.cid-vdOCiXuoJC .card-title,
-.cid-vdOCiXuoJC .iconfont-wrapper {
-  color: #000000;
-}
-.cid-vdOCiXuoJC .card-text {
-  color: #000000;
-}
-.cid-vdOCiXuoJC .mbr-section-title {
-  color: #000000;
-  text-align: center;
-}
-.cid-vdOCiXuoJC .mbr-number {
-  color: #9fe870;
-}
-.cid-vdOCiXuoJC .mbr-text,
-.cid-vdOCiXuoJC .mbr-section-btn {
-  text-align: center;
-}
-.cid-vdOCiXuoJC .card-text,
-.cid-vdOCiXuoJC .item .mbr-section-btn {
-  text-align: left;
+@media (max-width: 767px) {
+  .cid-vf8Qt7x8vW .item-wrapper {
+    padding: 2rem 1.5rem;
+    margin-bottom: 1rem;
+  }
 }
 .cid-vdODxAFWun {
   padding-top: 6rem;
