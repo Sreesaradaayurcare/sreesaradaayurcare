@@ -339,7 +339,7 @@ function openGoogleCalendar() {
     let gStart = start.toISOString().replace(/[-:]/g, "").split(".")[0] + "Z";
     let gEnd = end.toISOString().replace(/[-:]/g, "").split(".")[0] + "Z";
 
-    let googleUrl = `https://calendar.google.com/calendar/render?action=TEMPLATE&text=ShreesaradaAyurcareConsultationBooking&dates=${gStart}/${gEnd}&add=sreesaradaayurcare@gmail.com`;
+    let googleUrl = `https://calendar.google.com/calendar/render?action=TEMPLATE&text=SreesaradaAyurcareConsultationBooking&dates=${gStart}/${gEnd}&add=sreesaradaayurcare@gmail.com`;
     
     window.open(googleUrl, "_blank");
     closePopup();
@@ -358,7 +358,7 @@ function openOutlookCalendar() {
     let endStr = formatOutlook(end);
 
     let url = `https://outlook.live.com/calendar/0/deeplink/compose
-        ?subject=Shreesarada Ayurcare Consultation Booking
+        ?subject=Sreesarada Ayurcare Consultation Booking
         &body=Kindly select your slot for consultaion and proceed
         &startdt=${startStr}
         &enddt=${endStr}
